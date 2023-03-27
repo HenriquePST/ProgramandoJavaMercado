@@ -2,6 +2,9 @@ package modelo;
 
 import Utils.Utils;
 
+/**
+ * @author Joao Henrique
+ */
 public class Produto {
     private static int count = 1;
 
